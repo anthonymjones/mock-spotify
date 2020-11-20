@@ -2,247 +2,199 @@
     "artists": [
     {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "spotify": "https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr"
         },
         "followers": {
-            "href": null,
-            "total": 2436710
+          "href": null,
+          "total": 51211
         },
         "genres": [
-            "houston rap",
-            "pop",
-            "pop rap",
-            "trap queen"
+          "dreamo",
+          "emo",
+          "emo punk",
+          "indie rock",
+          "melancholia",
+          "slowcore"
         ],
-        "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
-        "id": "181bsRPaVXVlUKXrxwZfHK",
+        "href": "https://api.spotify.com/v1/artists/4ApdWjZjftqD77Vh6qDbCr",
+        "id": "4ApdWjZjftqD77Vh6qDbCr",
         "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/7bca4cddd5903957a727ae5b49936cd57d801d05",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/269960de592b3ccfd48e0b5c0e1cfa7159d10fdf",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/6a68a8b1db96036f9c2e12f62263ef457feec425",
-                "width": 160
-            }
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/a92600155414f3509626fbee00e210583dbf83b2",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/d9de5b00e4721a345fb14e213bb5d34ee4423195",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/5a5057b9c77745ffecb595384f4f23709dc2247d",
+            "width": 160
+          }
         ],
-        "name": "Megan Thee Stallion",
-        "popularity": 89,
+        "name": "Pedro The Lion",
+        "popularity": 42,
         "type": "artist",
-        "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
-    },
-    {
+        "uri": "spotify:artist:4ApdWjZjftqD77Vh6qDbCr"
+      },
+         {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         "followers": {
-            "href": null,
-            "total": 52872619
+          "href": null,
+          "total": 5617488
         },
         "genres": [
-            "dance pop",
-            "pop",
-            "post-teen pop"
+          "alternative rock",
+          "art rock",
+          "melancholia",
+          "oxford indie",
+          "permanent wave",
+          "rock"
         ],
-        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
-        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+        "id": "4Z8W4fKeB5YxbusRsdQVPb",
         "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/f8c793519d837ca2f920c561535fe62ef32e8e5b",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/610f278171ed793b0d6c771f2877e5d4fd533d38",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/03345cd15fe15956bbc204131ac1b45991b99bb6",
-                "width": 160
-            }
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/afcd616e1ef2d2786f47b3b4a8a6aeea24a72adc",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/563754af10b3d9f9f62a3458e699f58c4a02870f",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/4067ea225d8b42fa6951857d3af27dd07d60f3c6",
+            "width": 160
+          }
         ],
-        "name": "Ariana Grande",
-        "popularity": 100,
+        "name": "Radiohead",
+        "popularity": 82,
         "type": "artist",
-        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
-    },
-    {
+        "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+      },
+         {
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         },
         "followers": {
-            "href": null,
-            "total": 14974410
+          "href": null,
+          "total": 2795104
         },
         "genres": [
-            "latin",
-            "reggaeton",
-            "reggaeton flow",
-            "trap latino"
+          "eau claire indie",
+          "indie folk",
+          "melancholia"
         ],
-        "href": "https://api.spotify.com/v1/artists/2R21vXR83lH98kGeO99Y66",
-        "id": "2R21vXR83lH98kGeO99Y66",
+        "href": "https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ",
+        "id": "4LEiUm1SRbFMgfqnQTwUbQ",
         "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/2a45c88705c1fb6aac429a40b45f044373e5acfd",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/be9c4b057e527158653b3168abe9d3760992caf9",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/c9e877e7cb4422fa84157b289fa01d7f962a2d20",
-                "width": 160
-            }
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/d5ea2b221938b03e2096ef2c2caf2a0558014c1e",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/7f9b8a0f89f5aff5a03861f5b34fb73853ce0fec",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/9258bf0ae0348dc7e2b1279507d2bf597c146bc4",
+            "width": 160
+          }
         ],
-        "name": "Anuel AA",
-        "popularity": 94,
+        "name": "Bon Iver",
+        "popularity": 81,
         "type": "artist",
-        "uri": "spotify:artist:2R21vXR83lH98kGeO99Y66"
-    }
-],
-    "albums": [
-    {
-        "album_type": "album",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-                },
-                "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
-                "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-                "name": "The Weeknd",
-                "type": "artist",
-                "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
-            }
-        ],
+        "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+      },
+        {
         "external_urls": {
-            "spotify": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+          "spotify": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         },
-        "href": "https://api.spotify.com/v1/albums/4yP0hdKOZPNshxUOjY0cZj",
-        "id": "4yP0hdKOZPNshxUOjY0cZj",
+        "followers": {
+          "href": null,
+          "total": 1042715
+        },
+        "genres": [
+          "chamber pop",
+          "indie folk",
+          "indie pop",
+          "indie rock",
+          "seattle indie",
+          "stomp and holler"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4EVpmkEwrLYEg6jIsiPMIb",
+        "id": "4EVpmkEwrLYEg6jIsiPMIb",
         "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
-                "width": 64
-            }
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ebf515962abdb0a61c6bfeb26ceea6c629b9e756",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/9936313657dd8e19feac691304c7bc52432f90c8",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/64cf7d3b8161cbffaa9f53494463412247bacfb8",
+            "width": 160
+          }
         ],
-        "name": "After Hours",
-        "release_date": "2020-03-20",
-        "release_date_precision": "day",
-        "total_tracks": 14,
-        "type": "album",
-        "uri": "spotify:album:4yP0hdKOZPNshxUOjY0cZj"
-    },
-    {
-        "album_type": "album",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-                },
-                "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
-                "id": "0Y5tJX1MQlPlqiwlOH1tJY",
-                "name": "Travis Scott",
-                "type": "artist",
-                "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
-            }
-        ],
+        "name": "Fleet Foxes",
+        "popularity": 73,
+        "type": "artist",
+        "uri": "spotify:artist:4EVpmkEwrLYEg6jIsiPMIb"
+      },
+        {
         "external_urls": {
-            "spotify": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+          "spotify": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         },
-        "href": "https://api.spotify.com/v1/albums/41GuZcammIkupMPKH2OJ6I",
-        "id": "41GuZcammIkupMPKH2OJ6I",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851072e9faef2ef7b6db63834a3",
-                "width": 64
-            }
-        ],
-        "name": "ASTROWORLD",
-        "release_date": "2018-08-03",
-        "release_date_precision": "day",
-        "total_tracks": 17,
-        "type": "album",
-        "uri": "spotify:album:41GuZcammIkupMPKH2OJ6I"
-    },
-    {
-        "album_type": "album",
-        "artists": [
-            {
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-                },
-                "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
-                "id": "6LuN9FCkKOj5PcnpouEgny",
-                "name": "Khalid",
-                "type": "artist",
-                "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
-            }
-        ],
-        "external_urls": {
-            "spotify": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+        "followers": {
+          "href": null,
+          "total": 1197820
         },
-        "href": "https://api.spotify.com/v1/albums/6kf46HbnYCZzP6rjvQHYzg",
-        "id": "6kf46HbnYCZzP6rjvQHYzg",
-        "images": [
-            {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273988ede5e1276e758b5f9e577",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02988ede5e1276e758b5f9e577",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851988ede5e1276e758b5f9e577",
-                "width": 64
-            }
+        "genres": [
+          "baroque pop",
+          "chamber pop",
+          "freak folk",
+          "indie folk",
+          "singer-songwriter"
         ],
-        "name": "American Teen",
-        "release_date": "2017-04-27",
-        "release_date_precision": "day",
-        "total_tracks": 15,
-        "type": "album",
-        "uri": "spotify:album:6kf46HbnYCZzP6rjvQHYzg"
-    }
+        "href": "https://api.spotify.com/v1/artists/4MXUO7sVCaFgFjoTI5ox5c",
+        "id": "4MXUO7sVCaFgFjoTI5ox5c",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/9980e58868196afe7b58aaef79f61441a8d2907e",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/5a5c598b88e736485a738d6266a017eed1703c89",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/db6979ecd0d3f2e27d6fb6ff254bcaf0ba134b82",
+            "width": 160
+          }
+        ],
+        "name": "Sufjan Stevens",
+        "popularity": 76,
+        "type": "artist",
+        "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+      }        
 ]
 }
